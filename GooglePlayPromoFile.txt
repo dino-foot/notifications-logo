@@ -1,0 +1,1 @@
+{"gameName":"WhatsApp Group","storeLink":"https://chat.whatsapp.com/Hj2xc6mwnNH3NG4nR664Tj","imageUrls":["https://dino-foot.github.io/notifications-logo/whatsappGroupAd.png"]}
