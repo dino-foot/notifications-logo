@@ -1,1 +1,1 @@
-{"gameName":"WhatsApp Group","storeLink":"https://play.google.com/store/apps/details?id=com.pixellab.card.king","imageUrls":["https://dino-foot.github.io/notifications-logo/whatsappGroupAd.png"]}
+{"gameName":"WhatsApp Group","storeLink":"https://www.facebook.com/groups/16guticlub","imageUrls":["https://dino-foot.github.io/notifications-logo/whatsappGroupAd.png"]}
