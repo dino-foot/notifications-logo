@@ -1,0 +1,1 @@
+{"gameName":"16 Guti (Kitti)","storeLink":"https://play.google.com/store/apps/details?id=com.pixellab.shologuti.offline.bead16.damro","imageUrls":["https://dino-foot.github.io/notifications-logo/PuzzleAD_download_16Guti.png"]}
