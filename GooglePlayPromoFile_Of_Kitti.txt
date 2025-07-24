@@ -1,1 +1,1 @@
-{"gameName":"Card King (Kitti)","storeLink":"https://play.google.com/store/apps/details?id=com.pixellab.card.king","imageUrls":["https://dino-foot.github.io/notifications-logo/cardkingAD.png"]}
+{"gameName":"Card King (Kitti)","storeLink":"https://play.google.com/store/apps/details?id=com.pixellab.blockbuster.puzzle","imageUrls":["https://dino-foot.github.io/notifications-logo/cardkingAD.png"]}
